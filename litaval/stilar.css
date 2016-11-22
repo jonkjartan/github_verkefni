@@ -1,4 +1,4 @@
-body {
+﻿body {
 	margin:0;
 }
 .sumar {
@@ -11,7 +11,7 @@ body {
 
 .vetur {
 
-	/*Settu eigin stíla hér fyrir vetur litaþema*/
+	
 
    	background: linear-gradient(to top left, blue, white); /* Standard syntax (must be last) */
 	position: fixed;
